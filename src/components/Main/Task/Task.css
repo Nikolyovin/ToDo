@@ -1,0 +1,29 @@
+.noActive{
+   display: flex;
+   justify-content: space-between;
+   border: 3px solid blueviolet;
+   width: 400px;
+   margin: 0 auto;
+   padding: 10px;
+   margin-bottom: 15px ;
+}
+.active{ 
+display: flex;
+justify-content: space-between;
+border: 3px solid blueviolet;
+width: 400px;
+margin: 0 auto;
+padding: 10px;
+margin-bottom: 15px ;
+background-color: blueviolet;
+}
+
+.mark{
+   padding: 0 5px;
+   cursor: pointer;
+}
+.mark-active{
+   padding: 0 5px;
+   cursor: pointer;
+   visibility: hidden;
+}

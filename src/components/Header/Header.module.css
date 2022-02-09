@@ -1,0 +1,11 @@
+.wrap{
+   background-color: aquamarine;
+   height: 50px;
+}
+
+.title{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   padding: 5px 0 0 0;
+   color: blueviolet;
+}

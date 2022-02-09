@@ -1,0 +1,15 @@
+
+.task_name{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+}
+.wrap_button{
+   display: flex;
+}
+.delete{
+   padding: 0 5px;
+   cursor: pointer;
+}
+
+
+
